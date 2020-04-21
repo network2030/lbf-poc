@@ -1,6 +1,14 @@
-This is the validation code used for the 
-  "High-Precision Latency Forwarding over packet-programmable networks"
-paper at IEEE/IFIP NOMS 2020 conference.
+tree/master/zip/lbf-poc.1.0.1.zip
+
+This is the version of the lbf-poc validation tool used for the 
+"High-Precision Latency Forwarding over packet-programmable networks"
+paper and demo at IEEE/IFIP NOMS 2020 conference.
+
+The conference proceedings are under IFIP copyright, so they should be
+accessible free of charge to everyone ca. 1 month after the conference.
+
+The recording of the demo for this version of the validation tool is here:
+https://www.youtube.com/watch?v=hiQk7pS2qMk&feature=youtu.be
 
 Contact us for any questions, comments, suggestions - we are always looking for interested collaborators:  
 Toerless Eckert (toerless.eckert@futurewei.com), Alexander Clemm (alex@futurewei.com)
